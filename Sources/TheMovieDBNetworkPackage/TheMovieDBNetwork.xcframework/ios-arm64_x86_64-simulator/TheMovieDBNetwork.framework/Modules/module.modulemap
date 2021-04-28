@@ -1,0 +1,11 @@
+framework module TheMovieDBNetwork {
+  umbrella header "TheMovieDBNetwork.h"
+
+  export *
+  module * { export * }
+}
+
+module TheMovieDBNetwork.Swift {
+    header "TheMovieDBNetwork-Swift.h"
+    requires objc
+}
