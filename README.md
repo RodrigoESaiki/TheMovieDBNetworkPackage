@@ -1,3 +1,3 @@
 # TheMovieDBNetworkPackage
 
-A description of this package.
+Network layer framework using swift package for TheMovieDB Challenge requests
